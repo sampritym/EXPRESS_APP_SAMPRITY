@@ -18,17 +18,17 @@ Before setting up the project, ensure you have the following installed:
 
 1. Clone the repository
    
-2.Install dependencies:
+##Install dependencies:
   npm install
 
 This command installs the node_modules required for the project.
 
-3.Configuration
+##Configuration
 Create a .env file and give a port number.Let's say
 
 PORT=3000
 
-4.Running the App
+##Running the App
 To start the Express server, run the following command:
 
 node index.js
